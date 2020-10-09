@@ -24,6 +24,8 @@
 		B903B1DE2530F083004BBCF2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B903B1E12530F083004BBCF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B903B1E32530F083004BBCF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B903B1EA2530F0B3004BBCF2 /* Location.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Location.gpx; sourceTree = "<group>"; };
+		B903B1EC2530F0CF004BBCF2 /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,8 @@
 				B903B1D52530F082004BBCF2 /* AppDelegate.swift */,
 				B903B1D72530F082004BBCF2 /* SceneDelegate.swift */,
 				B903B1D92530F082004BBCF2 /* ViewController.swift */,
+				B903B1EC2530F0CF004BBCF2 /* Configuration.storekit */,
+				B903B1EA2530F0B3004BBCF2 /* Location.gpx */,
 				B903B1DB2530F082004BBCF2 /* Main.storyboard */,
 				B903B1DE2530F083004BBCF2 /* Assets.xcassets */,
 				B903B1E02530F083004BBCF2 /* LaunchScreen.storyboard */,
