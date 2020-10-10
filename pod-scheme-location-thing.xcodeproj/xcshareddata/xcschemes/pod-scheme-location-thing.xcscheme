@@ -54,6 +54,9 @@
          identifier = "../../pod-scheme-location-thing/Location.gpx"
          referenceType = "0">
       </LocationScenarioReference>
+      <RoutingCoverageFileReference
+         identifier = "../../pod-scheme-location-thing/Directions.geojson">
+      </RoutingCoverageFileReference>
       <StoreKitConfigurationFileReference
          identifier = "../../pod-scheme-location-thing/Configuration.storekit">
       </StoreKitConfigurationFileReference>
